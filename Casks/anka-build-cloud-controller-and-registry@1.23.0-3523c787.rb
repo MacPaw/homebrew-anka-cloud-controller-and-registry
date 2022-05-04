@@ -1,4 +1,4 @@
-cask "anka-build-cloud-controller-and-registry" do
+cask "anka-build-cloud-controller-and-registry@1.23.0-3523c787" do
   version "1.23.0-3523c787"
   sha256 "15732cef3006ca61f785d96bd166b9cef90349364d7b7c9911fb6e4f17f5776b"
 
